@@ -29,11 +29,7 @@ Building a modern SaaS platform for WordPress management:
 - All-in-one solution
 
 ### 📝 LogdifyWP
-Bringing proper activity logs to WordPress:
-- Track changes
-- Monitor user actions
-- Easy rollbacks
-- Peace of mind
+A comprehensive WordPress property booking system consisting of a theme and plugin working together to provide a complete solution for property management and bookings
 
 ## Beyond the Code
 
