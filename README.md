@@ -44,7 +44,7 @@ Bringing proper activity logs to WordPress:
 
 ## Let's Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/richcopestake)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rich-copestake/)
 - 🐦 [Twitter](https://twitter.com/copestakerich)
 
 ---
