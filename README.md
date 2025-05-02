@@ -1,4 +1,4 @@
-# Hey, I’m Rich — Founder of [MaintainHQ](https://maintainhq.com), WordPress developer turned full-stack software engineer with a passion for building tools that actually do the work, not just look nice, I also built [LogdifyWP](https://logdifywp.com), and freelance studio [WonkyPixel](https://wonkypixel.com).
+# Hey, I’m Rich — Founder of [MaintainHQ](https://maintainhq.com), WordPress developer turned full-stack software engineer with a passion for building tools that actually do the work, not just look nice, I also built [LogdifyWP](https://logdifywp.com), and freelance studio [WonkyPixel](https://wonkypixel.io).
 
 I’ve been in the WordPress world long enough to know what breaks, what scales, and what burns out freelancers. [MaintainHQ](https://maintainhq.com) is the answer to that — a smarter way to manage updates, SEO, clients, tasks, and even AI assistance, all under one roof.
 
