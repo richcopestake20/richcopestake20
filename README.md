@@ -2,7 +2,7 @@
 
 Founder of [Rich Harrington Ltd](https://richharrington.dev) — full-stack software engineer with a serious passion for building things that actually work, not just things that look like they work.
 
-I've spent years in the trenches of web development, started deep in the WordPress world, and gradually evolved into building full-stack applications, SaaS platforms, custom APIs, and tools that solve real problems. I'm currently building [MaintainHQ](https://maintainhq.com) — a smarter way to manage WordPress sites, clients, SEO, updates, and more, all under one roof. Oh, and I also built [LogdifyWP](https://github.com/WonkyPixelUK/LodgifyWP) along the way.
+I've spent years in the trenches of web development, started deep in the WordPress world, and gradually evolved into building full-stack applications, SaaS platforms, custom APIs, and tools that solve real problems. I'm currently building [MaintainHQ](https://maintainhq.com) — a smarter way to manage WordPress sites, clients, SEO, updates, and more, all under one roof.
 
 These days I'm just as comfortable in Laravel, Node, React, or wiring up a GitOps pipeline as I am tweaking DNS at midnight. I'm a developer who still gets hands-on — because I genuinely enjoy it.
 
