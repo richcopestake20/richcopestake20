@@ -1,48 +1,57 @@
-# Hey, I’m Rich — Founder of [MaintainHQ](https://maintainhq.com), WordPress developer turned full-stack software engineer with a passion for building tools that actually do the work, not just look nice, I also built [LogdifyWP](https://github.com/WonkyPixelUK/LodgifyWP), and my freelance studio [WonkyPixel](https://wonkypixel.io).
+# Hey, I'm Rich 👋
 
-I’ve been in the WordPress world long enough to know what breaks, what scales, and what burns out freelancers. [MaintainHQ](https://maintainhq.com) is the answer to that — a smarter way to manage updates, SEO, clients, tasks, and even AI assistance, all under one roof.
+Founder of [Rich Harrington Ltd](https://richharrington.dev) — full-stack software engineer with a serious passion for building things that actually work, not just things that look like they work.
 
-By trade, I’m a lead software engineer who still enjoys getting hands-on with DNS configs, custom APIs, Laravel, GitOps, and the WordPress core. But I’m also a designer at heart (with a soft spot for crisp UI, clean UX, and the occasional accidental pixel obsession).
+I've spent years in the trenches of web development, started deep in the WordPress world, and gradually evolved into building full-stack applications, SaaS platforms, custom APIs, and tools that solve real problems. I'm currently building [MaintainHQ](https://maintainhq.com) — a smarter way to manage WordPress sites, clients, SEO, updates, and more, all under one roof. Oh, and I also built [LogdifyWP](https://github.com/WonkyPixelUK/LodgifyWP) along the way.
 
-Outside of code?
-🧙‍♂️ I’m a proud MMPR collector, hoarder of manly Loungefly bags, and massive Lord of the Rings nerd.
-📦 My office has more “collector’s items” than shelf space.
-🎮 And yes, I can fix your DNS and tell you which Fellowship member had the best character arc.
+These days I'm just as comfortable in Laravel, Node, React, or wiring up a GitOps pipeline as I am tweaking DNS at midnight. I'm a developer who still gets hands-on — because I genuinely enjoy it.
 
-If you’re into WordPress, SaaS, automation, or just want to follow a northern lad building something loud, bold, and (hopefully) useful — you’re in the right place.
-
-## What I Do
-
-### 🏢 WonkyPixel
-Building clean, high-performance WordPress sites for brands and agencies. Specializing in:
-- Custom theme development
-- Complex WooCommerce builds
-- ACF-powered client dashboards
-- Performance optimization
-
-### 🚀 MaintainHQ
-Building a modern SaaS platform for WordPress management:
-- AI-powered updates
-- Performance audits
-- SEO tools
-- Helpdesk support
-- All-in-one solution
-
-### 📝 LogdifyWP
-A comprehensive WordPress property booking system consisting of a theme and plugin working together to provide a complete solution for property management and bookings
-
-## Beyond the Code
-
-- 🎮 MMPR collector
-- 🎒 Loungefly enthusiast (yes, the manly ones exist)
-- 🧙‍♂️ Massive LOTR fan
-- 🤓 Professional geek
-
-## Let's Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rich-copestake/)
-- 🐦 [Twitter](https://twitter.com/copestakerich)
+Oh, and I'm a designer at heart too. Crisp UI, clean UX, and the occasional accidental pixel obsession. You've been warned.
 
 ---
 
-*P.S. Frodo totally deserved more credit.* 
+## What I Do
+
+### 💼 Rich Harrington Ltd
+Full-stack development, custom web applications, and honest, transparent pricing. No fluff, no jargon — just good work, delivered properly.
+
+- Full-stack web development
+- Custom APIs & integrations
+- SaaS architecture & builds
+- Hosting, DevOps & DNS (yes, really)
+- UI/UX design with actual taste
+
+👉 [richharrington.dev](https://richharrington.dev)
+
+### 🚀 MaintainHQ
+A modern SaaS platform for WordPress management — because managing client sites shouldn't be a full-time job in itself.
+
+- AI-powered updates & monitoring
+- SEO tools & performance audits
+- Helpdesk & client management
+- All-in-one dashboard
+
+👉 [maintainhq.com](https://maintainhq.com) *(in progress — watch this space)*
+
+---
+
+## Beyond the Code
+
+- 🧙‍♂️ Massive Lord of the Rings nerd *(Samwise carried the whole trilogy, fight me)*
+- 🎮 Proud MMPR collector
+- 🎒 Loungefly enthusiast — yes, the manly ones absolutely exist
+- 📦 Office has more collector's items than shelf space
+- 🤓 Professional geek, unapologetically
+
+---
+
+## Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rich-harrington/)
+- 🐦 [Twitter / X](https://x.com/rharringtonuk)
+- 🌐 [richharrington.dev](https://richharrington.dev)
+- 📅 [Book a call](https://richharrington.dev/book)
+
+---
+
+*P.S. Frodo absolutely deserved more credit. But Sam deserved more.*
